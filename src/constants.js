@@ -148,7 +148,7 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "BookMyFit ",
+      title: "BookMyFit  - Client Project",
       description:
         "BookMyFit is a responsive web platform designed to streamline the fitness journey by allowing users to discover and book sessions at nearby gyms and fitness centers. Built with a user-friendly interface and dynamic backend, the platform connects health-conscious users with fitness providers in real-time..",
       image: githubdetLogo,
@@ -157,7 +157,7 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "Aestheticmoments wedding photography ",
+      title: "Aestheticmoments wedding photography  - Client Project ",
       description:
         "Developed a responsive wedding photography portfolio website with modern UI/UX and a backend admin panel to upload and manage portfolio content dynamically. Focused on elegant design, smooth performance, and mobile responsiveness.",
       image: csprepLogo,
@@ -167,7 +167,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Vivid snaps wedding Photography ",
+      title: "Vivid snaps wedding Photography - Client Project ",
       description:
         "Developed a responsive wedding photography portfolio website with modern UI/UX and a backend admin panel to upload and manage portfolio",
       image: movierecLogo,
@@ -177,7 +177,7 @@ export const SkillsInfo = [
     },
     {
       id: 3,
-      title: "Rent V - Backend ",
+      title: "Rent V - Backend  - Startup",
       description:
         "Developed the backend for Rent-V, a vehicle rental platform for university students. Built APIs for user authentication, vehicle listings, booking management, document verification, and secure data handling to support seamless rental operations.",
       image: npmLogo,
